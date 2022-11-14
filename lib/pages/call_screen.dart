@@ -5,7 +5,7 @@ class CallsScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return new Center(
       child: new Text(
-        "Calls",
+        "Llamadas",
         style: new TextStyle(fontSize: 20.0),
       ),
     );
